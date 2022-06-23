@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1618601955 source:c:\users\luisf\onedrive\Área de trabalho\atividades-geral\c\tad2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lista.h"
+	<locale.h>
+
+1618580308 c:\users\luisf\onedrive\Área de trabalho\atividades-geral\c\tad2\lista.h
+
+1618599527 source:c:\users\luisf\onedrive\Área de trabalho\atividades-geral\c\tad2\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1618847384 source:c:\users\ritha\downloads\tad2(1)\tad2\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1618847384 c:\users\ritha\downloads\tad2(1)\tad2\lista.h
+
+1618847384 source:c:\users\ritha\downloads\tad2(1)\tad2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lista.h"
+	<locale.h>
+
