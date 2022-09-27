@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1617634559 source:c:\users\luisf\onedrive\Área de trabalho\atividades-geral\c\pilhas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"stack.h"
+
+1616094770 c:\users\luisf\onedrive\Área de trabalho\atividades-geral\c\pilhas\stack.h
+
+1617635166 source:c:\users\ritha\downloads\batamanpreparo\pilhas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"stack.h"
+
+1616094772 c:\users\ritha\downloads\batamanpreparo\pilhas\stack.h
+
